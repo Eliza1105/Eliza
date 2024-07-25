@@ -22,5 +22,15 @@ public class Country {
     private String code;
 
 
+    public Long getId() {
+        return id;
+    }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getCode() {
+        return code;
+    }
 }

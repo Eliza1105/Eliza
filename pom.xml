@@ -8,6 +8,7 @@
         <module>Hibernate</module>
         <module>H2</module>
         <module>H2</module>
+        <module>Persistence</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
